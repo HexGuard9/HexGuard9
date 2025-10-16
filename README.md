@@ -21,7 +21,7 @@ I aim to launch my career in entry-level SOC, system administration, or red-team
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux System                                  | N/A                        |
+| Linux                                         | N/A                        |
 | Windows                                       | N/A                        |
 | System Administration                         | N/A                        |
 | Basic Networking (TCP/IP, DNS, DHCP)         | N/A                        |
